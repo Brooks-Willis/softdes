@@ -3,5 +3,4 @@
 
 def printing_things():
     print 'lemons'
-    print 'Well hello there'
-    print 'new line'
+    print 'Well hello'
