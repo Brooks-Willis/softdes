@@ -1,6 +1,15 @@
+"""Written as a solution to a problem in "Think Python"
+by Allen Downey
+
+Author: Brooks Willis
+"""
 from math import *
 
 def estimate_pi(n):
+	"""Estimates the value of pi starting from the guess n
+
+	n: integer
+    """
 	k = 0
 	pi_est = 0
 	new_term = 1
