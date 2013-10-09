@@ -33,6 +33,7 @@ def rotate_word(s,n):
 
 	return new_word
 
+#Using same tests as Allen's code 
 print rotate_word('cheer', 7)
 print rotate_word('melon', -10)
 print rotate_word('sleep', 9)
